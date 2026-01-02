@@ -1,0 +1,1 @@
+This modular Python surveillance tool captures endpoint telemetry for cybersecurity research. It runs concurrent listeners for keystrokes, mouse activity, and window context using pynput and win32gui. Data is aggregated and automatically exfiltrated via email, demonstrating effective red-teaming and data extraction techniques.
